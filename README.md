@@ -1,1 +1,1 @@
-Check Github badges hack.
+Check Github Quick badges hack.
